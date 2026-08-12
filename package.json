@@ -2,13 +2,11 @@
   "name": "astro-zen",
   "type": "module",
   "version": "0.0.1",
-  "overrides": {
-    "vite": "^7.0.0"
-  },
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro check && astro build",
+    "build": "astro build",
+    "check": "astro check",
     "preview": "astro preview",
     "astro": "astro"
   },
