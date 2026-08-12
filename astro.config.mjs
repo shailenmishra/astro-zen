@@ -7,7 +7,6 @@ import cloudflare from "@astrojs/cloudflare";
 
 // https://astro.build/config
 export default defineConfig({
-  output: "server",
   fonts: [
     {
       provider: fontProviders.fontsource(),
@@ -27,5 +26,4 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
 
-  adapter: cloudflare(),
 });
