@@ -8,4 +8,4 @@ My purpose is to support you and your family in your journey so that you can liv
 
 I approach therapy through these lenses: mindfulness-based, culturally responsive, trauma-informed, and attachment-focused. All sessions are conducted virtually over a HIPAA compliant telehealth service.
 
-<a href="https://hopeofnewdawn.therapystack.com/">Schedule a consultation here.</a>
+<a href="https://hopeofnewdawn.therapystack.com/">Schedule a consultation here. </a>
