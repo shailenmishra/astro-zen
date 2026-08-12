@@ -2,20 +2,22 @@ import type { SiteConfig, SiteContent } from "../types";
 
 export const SITE_CONFIG: SiteConfig = {
   title: "Hope of New Dawn",
-  author: "Hope of New Dawn, LLC",
+  author: "Colleen Mishra",
   description:
     "a mindfulness-based, culturally responsive, trauma-informed, and attachment-focused therapy service.",
   lang: "en",
-  siteLogo: "/cm_img_small.jpeg",
+  siteLogo: "/alejandro-small.jpg",
   navLinks: [
+    { text: "Experience", href: "#experience" },
+    { text: "Projects", href: "#projects" },
     { text: "About", href: "#about" },
-    { text: "Services", href: "#services" },
-    { text: "Credentials", href: "#credentials" },
-    { text: "Contact", href: "#contact" },
-    { text: "Schedule", href: "https://hopeofnewdawn.therapystack.com/" },
   ],
   socialLinks: [
-    { text: "Instagram", href: "https://www.instagram.com/hopeofnewdawn/" },
+    { text: "Twitter", href: "https://github.com/immois/astro-zen" },
+    { text: "LinkedIn", href: "https://github.com/immois/astro-zen" },
+    { text: "Github", href: "https://github.com/immois/astro-zen" },
+    { text: "Youtube", href: "https://github.com/immois/astro-zen" },
+    { text: "Dribbble", href: "https://github.com/immois/astro-zen" },
   ],
   socialImage: "/zen-og.png",
   canonicalURL: "https://astro-zen.vercel.app",

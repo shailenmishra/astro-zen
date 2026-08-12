@@ -4,10 +4,11 @@
   --font-sans: var(--font-be-vietnam-pro);
   --font-serif: var(--font-gabarito);
 
-  --color-primary: #2563eb;
-  --color-neutral: #94a3b8;
-  --color-white: #e2e8f0;
-  --color-black: #0e141b;
+  /* 💡 SWAPPED FOR LIGHT THEME: White background, rich near-black text */
+  --color-primary: #FF6F61;
+  --color-neutral: #37474F;  /* Darker slate for highly readable paragraphs */
+  --color-white: #0e141b;    /* We are tricking utilities using 'text-white' to display dark text */
+  --color-black: #ffffff;    /* We are tricking utilities using 'bg-black' to display white background */
 
   --text-xs: 0.875rem;
   --text-xs--line-height: 1.125rem;
@@ -50,4 +51,57 @@
       transform: translateY(0);
     }
   }
+}
+
+/* ==========================================
+   GLOBAL LIGHT THEME RESETS
+   ========================================== */
+
+/* 1. Set global background to white, and normal font text to black */
+html, body {
+  background-color: #ffffff !important;
+  color: #0e141b !important;
+}
+
+/* 2. Target paragraphs and standard layout copy to use the neutral slate color */
+p, span, li {
+  color: var(--color-neutral) !important;
+}
+
+/* 3. Brute force all headers and text blocks carrying main titles to turn Brown */
+h1, h2, h3, h4, h5, h6,
+.text-7xl, .text-8xl, .text-9xl,
+.font-serif {
+  color: #FF6F61 !important;
+}
+
+/* 4. Fix the "Get in Touch" dynamic button so the text stays clean white on your brown background */
+a[href^="mailto:"] {
+  background-color: #F4B400 !important;
+  color: #ffffff !important;
+}
+
+.hero-subheading {
+  color: #F4B400 !important; /* Replace with your desired color code */
+}
+
+b, strong {
+  font-weight: bolder;
+  color: #000;
+}
+
+a {
+    color: #4BCA8F;
+    -webkit-text-decoration: inherit;
+    text-decoration: inherit;
+  }
+
+a:hover {
+  color: #0e141b;
+  text-decoration: underline;
+}
+
+a.nav-item {
+  color: #0e141b !important;
+  text-decoration: none !important;
 }
