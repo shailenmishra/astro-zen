@@ -6,6 +6,7 @@ import About from "@components/About.astro";
 import Services from "@components/Services.astro";
 import Credentials from "@components/Credentials.astro";
 import Contact from "@components/Contact.astro";
+import SectionDivider from "@components/SectionDivider.astro";
 
 import "../styles/global.css";
 ---
@@ -13,7 +14,10 @@ import "../styles/global.css";
 <Layout>
   <Hero {...SITE_CONTENT.hero} />
   <About />
+  <SectionDivider />
   <Services />
+  <SectionDivider />
   <Credentials />
+  <SectionDivider />
   <Contact />
 </Layout>
