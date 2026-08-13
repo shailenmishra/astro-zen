@@ -19,6 +19,12 @@ export default defineConfig({
       cssVariable: "--font-be-vietnam-pro",
       fallbacks: ["system-ui", "sans-serif"],
     },
+    {
+      provider: fontProviders.google(),
+      name: "Waiting for the Sunrise",
+      cssVariable: "--font-sunrise",
+      fallbacks: ["cursive"],
+    },
   ],
 
   vite: {

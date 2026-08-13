@@ -24,7 +24,7 @@ export const SITE_CONFIG: SiteConfig = {
 export const SITE_CONTENT: SiteContent = {
   hero: {
     name: "Hope of New Dawn",
-    specialty: "Psychotherapy & Support",
+    specialty: "Psychotherapy + Support",
     summary:
       "I’m Colleen: a licensed clinical social worker, therapist, mother, and spouse.",
     email: "colleen.mishra@gmail.com",

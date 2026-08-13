@@ -57,32 +57,29 @@
    GLOBAL LIGHT THEME RESETS
    ========================================== */
 
-/* 1. Set global background to white, and normal font text to black */
 html, body {
   background-color: #ffffff !important;
   color: #0e141b !important;
 }
 
-/* 2. Target paragraphs and standard layout copy to use the neutral slate color */
 p, span, li {
   color: var(--color-neutral) !important;
 }
 
-/* 3. Brute force all headers and text blocks carrying main titles to turn Brown */
 h1, h2, h3, h4, h5, h6,
 .text-7xl, .text-8xl, .text-9xl,
 .font-serif {
   color: #FF6F61 !important;
 }
 
-/* 4. Fix the "Get in Touch" dynamic button so the text stays clean white on your brown background */
 a[href^="mailto:"] {
   background-color: #F4B400 !important;
   color: #ffffff !important;
 }
 
 .hero-subheading {
-  color: #F4B400 !important; /* Replace with your desired color code */
+  color: #F4B400 !important;
+  font-family: var(--font-sunrise);
 }
 
 b, strong {
