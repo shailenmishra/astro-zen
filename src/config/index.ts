@@ -17,7 +17,7 @@ export const SITE_CONFIG: SiteConfig = {
   socialLinks: [
     { text: "Instagram", href: "https://www.instagram.com/hopeofnewdawn/" },
   ],
-  socialImage: "/hnd-og.png",
+  socialImage: "/hnd-og-v2.png",
   canonicalURL: "https://astro-zen.vercel.app",
 };
 
