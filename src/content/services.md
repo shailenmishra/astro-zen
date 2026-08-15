@@ -2,7 +2,7 @@
 
 I offer a free 15-minute consultation to see if we would be a good fit.
 
-**Individual Counseling for Adults - 50 minutes / weekly / 8-20 weeks**
+**Individual Counseling for Adults - 50-60 minutes / weekly / 8-20 weeks**
 
 Sessions will help you build a secure connection with yourself, manage difficult emotions, and heal from past trauma. This will help guide you to transform negative self-criticism, reduce anxiety and depression, and form healthier relationships with others. Psycho-social tools and resources will be provided in our work together.
 

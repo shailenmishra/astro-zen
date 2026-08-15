@@ -10,6 +10,7 @@ export const SITE_CONFIG: SiteConfig = {
   navLinks: [
     { text: "About", href: "#about" },
     { text: "Services", href: "#services" },
+    { text: "Fees", href: "#fees" },
     { text: "Credentials", href: "#credentials" },
     { text: "Contact", href: "#contact" },
     { text: "Schedule", href: "https://hopeofnewdawn.therapystack.com/" },
@@ -24,7 +25,7 @@ export const SITE_CONFIG: SiteConfig = {
 export const SITE_CONTENT: SiteContent = {
   hero: {
     name: "Hope of New Dawn",
-    specialty: "Psychotherapy + Support",
+    specialty: "Psychotherapy\n+\nSupport",
     summary:
       "I’m Colleen: a licensed clinical social worker, therapist, mother, and spouse.",
     email: "colleen.mishra@gmail.com",

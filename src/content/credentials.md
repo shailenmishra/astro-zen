@@ -2,17 +2,18 @@
 
 **NPI:** 1225895071
 
-**Loyola University Chicago, Master in Social Work**, 2015
+**Loyola University Chicago, Master in Social Work**
 
-**Bachelor of Science in Family and Child Development**, 2007
+**Bachelor of Science in Family and Child Development**
 
-**Advance Clinical Training Program**, 2020-2021<br>
+**Advance Clinical Training Program**<br>
 Delaware Guidance Services
 
-**Mindful-Based Stress Reduction**, 2021<br>
+**Mindful-Based Stress Reduction**<br>
 Center for Mindfulness at UMass Memorial Health
 
-**Certificate in Perinatal Mental Health**, 2020<br>
+**Certificate in Perinatal Mental Health**<br>
 Postpartum Support International
 
-[NO SURPRISE BILLING ACT](https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/publications/avoid-surprise-healthcare-expenses.pdf)
+**Certificate in Enhancing Trauma Awareness**<br>
+Lakeside Global Institute
