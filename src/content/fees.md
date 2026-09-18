@@ -1,5 +1,3 @@
-I accept private pay and most branches of Delaware Medicaid.
-
 I do not charge a higher rate for the initial intake session.
 
 Individual Counseling for Adults: $175 per session

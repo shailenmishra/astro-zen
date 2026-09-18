@@ -9,6 +9,9 @@
 **Advance Clinical Training Program**<br>
 Delaware Guidance Services
 
+**Integrative Attachment Family Therapy**<br>
+Dafna Lender
+
 **Mindful-Based Stress Reduction**<br>
 Center for Mindfulness at UMass Memorial Health
 
